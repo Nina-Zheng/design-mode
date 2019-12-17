@@ -1,4 +1,4 @@
-package com.znt.demo.Bulider;
+package com.znt.demo.bulider;
 
 /**
  * 指导者（类似项目经理）

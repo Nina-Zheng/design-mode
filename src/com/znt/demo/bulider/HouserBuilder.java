@@ -1,4 +1,4 @@
-package com.znt.demo.Bulider;
+package com.znt.demo.bulider;
 
 /**
  *  房子建造者（接口）

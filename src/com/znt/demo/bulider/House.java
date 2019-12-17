@@ -1,4 +1,4 @@
-package com.znt.demo.Bulider;
+package com.znt.demo.bulider;
 
 /**
  *   产品：房子类
