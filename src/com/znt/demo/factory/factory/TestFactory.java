@@ -3,6 +3,8 @@ package com.znt.demo.factory.factory;
 import com.znt.demo.factory.shape.Shape;
 
 /**
+ *  工厂模式测试类
+ *
  * 设计
  * 1.先得知需要的功能
  * 2.知道功能对应的商品（N种）

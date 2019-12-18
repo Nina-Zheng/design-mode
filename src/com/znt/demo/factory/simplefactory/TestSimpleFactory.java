@@ -2,6 +2,9 @@ package com.znt.demo.factory.simplefactory;
 
 import com.znt.demo.factory.shape.Shape;
 
+/**
+ * 简单工厂模式 测试类
+ */
 public class TestSimpleFactory {
 
     public static void main(String[] args){

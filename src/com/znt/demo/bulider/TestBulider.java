@@ -1,7 +1,7 @@
 package com.znt.demo.bulider;
 
 /**
- * 测试类
+ * 建造者模式测试类
  */
 public class TestBulider {
 
