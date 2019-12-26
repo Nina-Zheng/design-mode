@@ -1,7 +1,7 @@
 package com.znt.demo.decorator;
 
 /**
- * @description 饮料的抽象类
+ * 饮料的抽象类
  */
 public abstract class Beverage {
 

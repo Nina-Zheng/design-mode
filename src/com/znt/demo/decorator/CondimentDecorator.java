@@ -1,7 +1,7 @@
 package com.znt.demo.decorator;
 
 /**
- * @description  调料的抽象类
+ * 调料的抽象类
  */
 public abstract class CondimentDecorator extends Beverage {
 
